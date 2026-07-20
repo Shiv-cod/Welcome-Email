@@ -1,0 +1,17 @@
+body{
+  margin:0;
+  padding:0;
+}
+table,tr,td{
+  border:1px solid black;
+}
+@media (max-width:600px){
+  .card_sec_1{
+    width:100%;
+    display:block;
+  }
+  .card_sec_2{
+    width:100%;
+    display:block;
+  }
+}
